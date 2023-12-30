@@ -1,9 +1,9 @@
 <a href="https://zeerakb1.github.io/">
-    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*wjXaegf3iJQytpkF" width="1200" height="300">
+    <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*wjXaegf3iJQytpkF" width="1200" height="250">
 </a>
 <h1 align="center">Hi 👋, I'm Zeerak Babar</h1>
 <h3 align="center">A passionate Software Engineer from Pakistan</h3>
-<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="400" height="400" align="right">
+<img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300" align="right">
 
 - 🌱 I’m currently learning **Rust**
 
