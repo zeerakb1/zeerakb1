@@ -3,8 +3,8 @@
 </a>
 -->
 <h1 align="left">Hi 👋, I'm Zeerak Babar</h1>
-<h3 align="left">Passionate software engineer with a BSc from LUMS and an ongoing MS from UC Davis, specializing in full-stack web and mobile app development using JavaScript, Python, React, Node.js, and Flutter. Eager to innovate and make a positive impact in software engineering.
-</h3>
+<h5 align="left">I'm a software engineer with a BSc from LUMS and an ongoing MS from UC Davis, specializing in full-stack web and mobile app development using JavaScript, Python, React, Node.js, and Flutter. Eager to innovate and make a positive impact in software engineering.
+</h5>
 <!---
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300" align="right">
 -->
