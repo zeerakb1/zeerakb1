@@ -2,8 +2,9 @@
     <img src="https://miro.medium.com/v2/resize:fit:1100/format:webp/0*wjXaegf3iJQytpkF" width="1200" height="250">
 </a>
 -->
-<h1 align="center">Hi 👋, I'm Zeerak Babar</h1>
-<h3 align="center">A passionate Software Engineer from Pakistan</h3>
+<h1 align="left">Hi 👋, I'm Zeerak Babar</h1>
+<h3 align="left">Passionate software engineer with a BSc from LUMS and an ongoing MS from UC Davis, specializing in full-stack web and mobile app development using JavaScript, Python, React, Node.js, and Flutter. Eager to innovate and make a positive impact in software engineering.
+</h3>
 <!---
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300" align="right">
 -->
