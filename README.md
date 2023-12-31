@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **Rust**
 
-- 👨‍💻 All of my projects are available at [zeerakb1.github.io/](zeerakb1.github.io/)
+- 👨‍💻 All of my projects are available at [Portfolio](https://zeerakb1.github.io/#/)
 
 - 💬 Ask me about **React, Python**
 
