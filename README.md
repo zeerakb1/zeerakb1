@@ -9,6 +9,8 @@
 <img src="https://media.giphy.com/media/bGgsc5mWoryfgKBx1u/giphy.gif" width="300" height="300" align="right">
 -->
 
+![Profile View Counter](https://komarev.com/ghpvc/?username=zeerakb1&style=for-the-badge)
+
 - 🌱 I’m currently learning **Rust**
 
 - 👨‍💻 All of my projects are available at [Portfolio](https://zeerakb1.github.io/#/)
