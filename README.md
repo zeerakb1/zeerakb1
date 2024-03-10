@@ -5,7 +5,7 @@
 
 - 👨‍💻 All of my projects are available at [Github](https://github.com/zeerakb1?tab=repositories)
 
-- <img src="https://github.com/zeerakb1/zeerakb1/assets/89310445/315722ae-42cf-4d34-ae71-b171f3b2745e" width="20" height="20"> Veiw my dev journey [Portfolio](zeerakb1.github.io/)
+- <img src="https://github.com/zeerakb1/zeerakb1/assets/89310445/315722ae-42cf-4d34-ae71-b171f3b2745e" width="20" height="20"> Veiw my dev journey [Portfolio](https://zeerakb1.github.io/#/)
 
 - 📫 How to reach me **zeerakbabar@gmail.com**
 
