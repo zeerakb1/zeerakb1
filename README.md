@@ -1,7 +1,7 @@
 <h1 align="left">Hi 👋, I'm Zeerak Babar</h1>
 <h5 align="left" line-height="1.5">I'm Zeerak Babar, a Master of Science in Computer Science student at the University of California, Davis, with a passion for technology and innovation. My background in computer science from the Lahore University of Management Sciences has fueled my interest in software engineering. </br> </br> I have a diverse skill set, including programming in Python, C/C++, and JavaScript, and working with frameworks like ReactJS, Node.js, and TensorFlow. My achievements include leading a project on benchmarking large language models, contributing to open-source projects like SPADE, and enhancing product functionality during my internship at Techloyce. I am committed to continuous learning and growth in the field of computer science.</h5>
 
-![Profile View Counter](https://komarev.com/ghpvc/?username=zeerakb1&style=for-the-badge)
+<!-- ![Profile View Counter](https://komarev.com/ghpvc/?username=zeerakb1&style=for-the-badge)  -->
 
 <!-- - 👨‍💻 All of my projects are available at [Github](https://github.com/zeerakb1?tab=repositories) -->
 
