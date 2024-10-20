@@ -28,7 +28,7 @@ Feel free to connect with me to discuss technology, innovation, or anything anim
 
 <!-- - 📫 How to reach me [Email](zeerakbabar@gmail.com) -->
 
-- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1grPZF3RtLRNU7Ws4glNfdH-xpGDA1IqF/view?usp=sharing)
+- 📄 Know about my experiences [Resume](https://drive.google.com/file/d/1VbqkWioFaFj-fJbtkIXSQVpE4Cet7nVg/view?usp=sharing)
 
 - ⚡ Fun fact: **Anime is one of my favorite pastimes!**
 
