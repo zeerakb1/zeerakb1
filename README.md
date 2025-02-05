@@ -3,7 +3,7 @@
 <h5 align="left" line-height="1.5">I’m a MS CS Grad student at UC Davis. Currently, I'm working as a Software Engineer Intern at iHerb, LLC, where I am part of the TMS (Transportation Management System) team. My role involves enhancing the functionality and efficiency of transportation management solutions.
 <br/>
 <br/>
-Previously, I contributed to a project on benchmarking large language models and other open-source projects like SPADE. These experiences have sharpened my skills in programming with Python, C/C++, and JavaScript, and working with frameworks like ReactJS, Node.js, and TensorFlow.
+Previously, I worked on B2B SaaS solutions, particularly SubscriptionFlow (YC W22) at Techloyce and have contributed to a project on benchmarking large language models and other Open Source projects like SPADE. These experiences have sharpened my skills in programming with Python, C/C++, and JavaScript, and working with frameworks like ReactJS, Node.js, and TensorFlow.
 <br/>
 <br/>
 When I'm not coding or studying, I dive into the world of anime, enjoying different series and occasionally venturing into manga. 
