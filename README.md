@@ -1,9 +1,9 @@
 <h1 align="left">Hi 👋, I'm Zeerak Babar</h1>
 <!-- <h5 align="left" line-height="1.5">I'm Zeerak Babar, a Master of Science in Computer Science student at the University of California, Davis, with a passion for technology and innovation. My background in computer science from the Lahore University of Management Sciences has fueled my interest in software engineering. </br> </br> I have a diverse skill set, including programming in Python, C/C++, and JavaScript, and working with frameworks like ReactJS, Node.js, and TensorFlow. My achievements include leading a project on benchmarking large language models, contributing to open-source projects like SPADE, and enhancing product functionality during my internship at Techloyce. I am committed to continuous learning and growth in the field of computer science.</h5> -->
-<h5 align="left" line-height="1.5">I’m a MS CS Grad student at UC Davis. Currently, I'm working as a Software Engineer Intern at iHerb, LLC, where I am part of the TMS (Transportation Management System) team. My role involves enhancing the functionality and efficiency of transportation management solutions.
+<h5 align="left" line-height="1.5">I currently work as a Software Engineer at Google, where I am part of the Cloud Control Platform team.
 <br/>
 <br/>
-Previously, I worked on B2B SaaS solutions, particularly SubscriptionFlow (YC W22) at Techloyce and have contributed to a project on benchmarking large language models and other Open Source projects like SPADE. These experiences have sharpened my skills in programming with Python, C/C++, and JavaScript, and working with frameworks like ReactJS, Node.js, and TensorFlow.
+Previously, I worked as a Software Engineer Intern at iHerb, LLC, where I am part of the TMS (Transportation Management System) team. I have also worked on B2B SaaS solutions, particularly SubscriptionFlow (YC W22) at Techloyce and have contributed to a project on benchmarking large language models and other Open Source projects like SPADE. These experiences have sharpened my skills in programming with Python, C/C++, and JavaScript, and working with frameworks like ReactJS, Node.js, and TensorFlow.
 <br/>
 <br/>
 When I'm not coding or studying, I dive into the world of anime, enjoying different series and occasionally venturing into manga. 
